@@ -1,8 +1,8 @@
 # CAM_HACKER_NHBD
-#WE ARE NOOB
+# WE ARE NOOB
 THIS IS A COPY TOOL
 
-#INSTALLATION
+# INSTALLATION
 
 $ apt-get install python3
 
@@ -13,3 +13,8 @@ $ git clone no
 $ pip3 install requests
 
 $ pip3 install colorama
+
+$ cd CAM_HACKER_NHBD
+
+# run
+$ python3 CAMERA-HACK.py
