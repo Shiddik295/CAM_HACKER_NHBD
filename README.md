@@ -8,7 +8,7 @@ $ apt-get install python3
 
 $ apt-get install git
 
-$ git clone no
+$ git clone https://github.com/Shiddik295/CAM_HACKER_NHBD.git
 
 $ pip3 install requests
 
@@ -18,3 +18,12 @@ $ cd CAM_HACKER_NHBD
 
 # run
 $ python3 CAMERA-HACK.py
+
+# CONTRACT ME
+
+Me on Facebook :- https://www.facebook.com/me.nhbd.admin.link.copy.kn.korso.mama
+My Facebook group :- https://facebook.com/groups/444362963250245/
+me on Instagram :- mn_shiddik
+
+# Enjoy the tool
+# Always thank Allah
